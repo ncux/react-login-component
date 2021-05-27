@@ -1,0 +1,75 @@
+.loginPart {
+    margin: 1rem auto;
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+}
+
+.marginY {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.inputs {
+    width: 500px;
+    padding: 10px;
+    border-radius: 4px;
+}
+
+.forgotPasswordText {
+    color: maroon;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.rememberMeForgot {
+    width: 500px;
+    margin: 0.5rem auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.loginButton {
+    color: white;
+    background-color: teal;
+    text-decoration: none;
+    border: none;
+    border-radius: 3px;
+    padding: 0.8rem 1.5rem;
+}
+
+.socialMediaPart {
+    width: 768px;
+    background-color: aliceblue;
+    margin: 1rem auto;
+    display: flex;
+    flex-direction: column;
+    padding: 1.6rem 1rem;
+    border-bottom: 1px solid lightgray;
+}
+
+.socialMediaButtons {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 1.6rem;
+}
+
+.socialMediaButton {
+    text-decoration: none;
+    border: none;
+    border-radius: 3px;
+    padding: 0.5rem 1.5rem;
+    cursor: pointer;
+}
+
+.registerNowPart {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-top: 1.8rem;
+
+}
+
+
+
+
